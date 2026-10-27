@@ -1,0 +1,6 @@
+{
+  "name": "Rewards Hub SA",
+  "description": "A premium mobile-first rewards and micro-research platform where South African users complete localization research tasks and earn high-yield payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
